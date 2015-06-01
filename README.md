@@ -3,7 +3,7 @@
 Deployment
 ----------
 
-```shell
+```sh
 #unzip dump.zip
 #cd dump
 #mongorestore dump/
@@ -12,7 +12,9 @@ Deployment
 
 http://0.0.0.0:8088
 
+```
 user    : admin
 password: 111111
+```
 
 
