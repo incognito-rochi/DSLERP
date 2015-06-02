@@ -7,6 +7,7 @@ Deployment
 #unzip dump.zip
 #cd dump
 #mongorestore dump/
+#npm install
 #node server.js
 ```
 
