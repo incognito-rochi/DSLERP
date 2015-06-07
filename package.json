@@ -1,6 +1,6 @@
 {
-  "name": "easyErp",
-  "version": "1.0.0",
+  "name": "dslErp",
+  "version": "0.1.0",
   "description": "",
   "main": "server.js",
   "dependencies": {
@@ -9,6 +9,7 @@
     "googleapis": "0.4.6",
     "mongoose": "3.8.3",
     "request": "2.29.0",
-    "xml2js": "0.4.0"
+    "xml2js": "0.4.0",
+    "accounting": "~0.3.2"
   }
 }
