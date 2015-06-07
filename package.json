@@ -1,6 +1,6 @@
 {
   "name": "dslErp",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "",
   "main": "server.js",
   "dependencies": {
@@ -11,5 +11,19 @@
     "request": "2.29.0",
     "xml2js": "0.4.0",
     "accounting": "~0.3.2"
-  }
+  },
+
+ "repository": {
+    "type": "git",
+    "url": "git://github.com/incognito-rochi/DSLERP.git"
+  },
+  "keywords": [
+    "erp",
+    "mongodb",
+    "node.js"
+  ],
+  "author": "Testing purpose, Raisul",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "private": true
 }
